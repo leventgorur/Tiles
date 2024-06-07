@@ -37,7 +37,13 @@ C = [8, 16]
 D = [8, 8]
 
 TILE_TYPES = [A, B, C, D]
+"""
+You can find the greatest common diviser in each side x and y
 
+8 is the OBEB in our case
+Draw a room and allow tiles in 8 by 8 to be placed.
+
+"""
 def min_package():
     min = 0
     for i in TILE_TYPES:
