@@ -5,8 +5,8 @@ layout = QTileLayout(
     columnNumber=5,
     verticalSpawn=100,
     horizontalSpan=150,
-    verticalSpacing=5,
-    horizontalSpacing=5,
+    verticalSpacing=0.125,
+    horizontalSpacing=0.125,
 )
 
 layout.addWidget(

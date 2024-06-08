@@ -63,7 +63,7 @@ class MainWindow(QtWidgets.QMainWindow):
         column_number = 9
         vertical_span = 73
         horizontal_span = 69
-        spacing = 5
+        spacing = 1
         static_layout = True
 
         # create the tile layout
