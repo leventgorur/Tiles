@@ -19,3 +19,4 @@ layout.addWidget(
 
 #URL: https://pypi.org/project/pyqt5-tile-layout/
 # https://libraries.io/pypi/pyqt5-tile-layout
+# https://github.com/arnaudframmery/qt-tile-layout
