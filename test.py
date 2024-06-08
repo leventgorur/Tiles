@@ -9,13 +9,8 @@ from QTileLayout import QTileLayout
 possible_text = [
     '24x16',
     '16x16',
-    'Hallo',
-    'Hola',
-    'Ciao',
-    'Ola',
-    'Hej',
-    'Saluton',
-    'Szia',
+    '16x8',
+    '8X8',
 ]
 
 possible_colors = [
@@ -23,9 +18,11 @@ possible_colors = [
     (153, 0, 153),   # purple
     (204, 204, 0),   # yellow
     (51, 102, 204),  # blue
+    """
     (0, 204, 102),   # green
     (153, 102, 51),  # brown
     (255, 51, 51),   # red
+    """
 ]
 
 
